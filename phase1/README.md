@@ -2,7 +2,9 @@
 
 ## Methods
 
-Describe (A) Methods you used (B) Why you used them, and (C) Number of users (e.g. n=10) for each method
+We used a survey method so that we could find trends in people’s grocery shopping and usage habits. 
+
+n=9
 
 ## Findings
 
