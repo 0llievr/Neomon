@@ -6,7 +6,7 @@ Grocery list app that will add purchased items into a pantry section with a coun
 ## Team Members
 
 * **Changsoo Jung** - Summary of contributions
-* **Daniel Lopez** - Summary of contributions
+* **Daniel Lopez** - Wrote the caveats and methods section.
 * **Oliver Lynch** - Summary of contributions
 
 ## Phase 1: User Inquiry and Inspection
