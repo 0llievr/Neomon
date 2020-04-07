@@ -12,7 +12,7 @@ For each method, describe the users you collected data from (demographics and ho
 * Over half of the participants tend to prepare when they go to grocery shopping.
 
 ![alt text](../assets/q2.png "Question2 img")
-* 66% of participants responded that 11% to 20% of their food goes bad. Almost all participants tend to *leave that some of their food goes bad.
+* 66% of participants responded that 11% to 20% of their food goes bad. Almost all participants tend to leave that some of their food goes bad.
 
 ![alt text](../assets/q3.png "Question3 img")
 * When almost all participants buy groceries, they don't care about them whether groceries are organic or not.
