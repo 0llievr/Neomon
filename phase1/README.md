@@ -101,15 +101,13 @@ Chuck often makes large amounts of food right before his produce goes bad so he 
 ### Danny 
 ##### Background:
 Danny is a 41 year young mother of 3. She likes to eat healthy and go to hike but often gives into what her kids want to do and eat. She lives with her husband and 3 children in a suburban courtyard outside of the big city. Her and her family rarely eat out due to how expensive it would be. 
-
 ##### Habits:
 Due to the size of her family, Danny always shops at the discount food store. She brings paper recipes she ripped out of magazines and spends a minimum of an hour shopping. Danny’s shopping cart is always a mix of healthy ingredients and kid Kuisine.
-
 ##### Bad Habits:
 If there is a coupon out there Danny will use it, but because of that she is often buying food that is closed to expiration. She also buys trending food items she reads about on the opera magazine that she doesn't know what to do with. 
 
 ### Eric Christof
-##### Background
+##### Background:
 Eric is a 30 year old tech startup worker who doesn't really think about what he puts in his body. For most of his meals he eats out or just makes something simple at home. He lives in an apartment with 3 of his employees and spends most of his day at his desk working. He’s reentering the dating game after a tough breakup and is trying to learn how to cook to impress the ladies. 
 ##### habits: 
 When he actually goes grocery shopping he goes to whole foods and buys organic because that is what will impress his date the most. He also will pick up a verity of simple things he know how to cook just in case he dosnt want to leave the house.
