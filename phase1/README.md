@@ -117,7 +117,7 @@ Bad Habits:
 	If there is a coupon out there Danny will use it, but because of that she is often buying food that is closed to expiration. She also buys trending food items she reads about on the opera magazine that she doesn't know what to do with. 
 
 
-###Eric Christof
+### Eric Christof
 	Eric is a 30 year old tech startup worker who doesn't really think about what he puts in his body. For most of his meals he eats out or just makes something simple at home. He lives in an apartment with 3 of his employees and spends most of his day at his desk working. He’s reentering the dating game after a tough breakup and is trying to learn how to cook to impress the ladies. 
 
 habits: 
