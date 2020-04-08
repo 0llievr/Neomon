@@ -2,9 +2,9 @@
 
 ## Methods
 
-We used a survey method so that we could find trends in people’s grocery shopping and usage habits. 
+We used a survey method so that we could find trends in people’s grocery shopping and usage habits. The survey would provide us with valuable data on if and how people plan for grocery shopping, how many people they shop for, what kind of food do they buy, and how they store their food and if those methods have proven to be effective so far.
 
-n=9
+The size of the survey group is n=9.
 
 ## Findings
 
