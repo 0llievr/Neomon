@@ -117,35 +117,30 @@ Often will just throw out the ingredients he bought because his date canceled on
 ## Scenarios
 
 ### Chad Frattington
-	Chad has an issue with letting his food expire due to bad storage. He is either storing food in the wrong places or in the right places for too long. He’s looking to make sure all of his food gets eaten before it goes bad
+Chad has an issue with letting his food expire due to bad storage. He is either storing food in the wrong places or in the right places for too long. He’s looking to make sure all of his food gets eaten before it goes bad
 
-	Neomom can help Chad store his food in the right places by utilizing the pantry section of our app. In that section it collects the food you have recently purchased categorized by where each item needs to be stored. This section can also help Chad utilize his groceries before they go bad by sending him push reminders with recommended recipes for the food that he already has.
+Neomom can help Chad store his food in the right places by utilizing the pantry section of our app. In that section it collects the food you have recently purchased categorized by where each item needs to be stored. This section can also help Chad utilize his groceries before they go bad by sending him push reminders with recommended recipes for the food that he already has.
 
 
 ### Vera Mccarthy
-	Vera has an issue with having food items she doesn’t know what to do with. She has a love for cooking and just needs to be pointed in the right direction
+Vera has an issue with having food items she doesn’t know what to do with. She has a love for cooking and just needs to be pointed in the right direction
 
-	To help prevent food waste our app can help Vera discover new recipes that use the food she already has in her pantry. All she would have to do is go into the recipes section of the app and filter based off of what is in her pantry. 
-
+To help prevent food waste our app can help Vera discover new recipes that use the food she already has in her pantry. All she would have to do is go into the recipes section of the app and filter based off of what is in her pantry. 
 
 ### Chuck Trarorein
-	Chuck cooks the majority of his food before it goes bad, but doesn't get as much enjoyment out of each meal that he cooks. He wants to start cooking more variety than what he grows but wants to keep eating his own produce with every meal.
+Chuck cooks the majority of his food before it goes bad, but doesn't get as much enjoyment out of each meal that he cooks. He wants to start cooking more variety than what he grows but wants to keep eating his own produce with every meal.
 
-	The statistics tab of the pantry section would best help break Chuck out of problem. In the statistics tab you can read reports of what food you most let go bad. Utilizing this he can start saving less produce for himself and use the extra money he earns to buy other ingredients. He can also use the recipe section and filter by pantry+shopping cart to help introduce new foods into his life
-
+The statistics tab of the pantry section would best help break Chuck out of problem. In the statistics tab you can read reports of what food you most let go bad. Utilizing this he can start saving less produce for himself and use the extra money he earns to buy other ingredients. He can also use the recipe section and filter by pantry+shopping cart to help introduce new foods into his life
 
 ### Danny dogson
-	Danny is an extreme mom and tries to feed her kids the best food that she can while staying on a budget. Because of it she sometimes forgets when foods expire. She also wants to experiment with ingredients she finds interesting but never knows what to do with them once she buys them.
+Danny is an extreme mom and tries to feed her kids the best food that she can while staying on a budget. Because of it she sometimes forgets when foods expire. She also wants to experiment with ingredients she finds interesting but never knows what to do with them once she buys them.
 
-	The panty tab has a modifiable expiration date for each item in it, the original date is based off of an average shelf life but can be changed for discount items that generally have an earlier expiration date. The recipes tab can help Danny find new recipes with the ingredients she wants to use. All she would have to do is filter by ingredient.
-
-
-
+The panty tab has a modifiable expiration date for each item in it, the original date is based off of an average shelf life but can be changed for discount items that generally have an earlier expiration date. The recipes tab can help Danny find new recipes with the ingredients she wants to use. All she would have to do is filter by ingredient.
 
 ### Eric Christof
-	Eric is only adventurous for love, and because of it he always has ingredients he doesn't know what to do with. He also wants to start trying new food but don't want to try anything too new
+Eric is only adventurous for love, and because of it he always has ingredients he doesn't know what to do with. He also wants to start trying new food but don't want to try anything too new
 
-	Our app would not only help him find recipes for these ingredients he doesn't know what to do with but it can also help him find recipes that help push his taste pallet out. In the recipe tab he can do two different searches. Firstly he can search for recipes with ingredients that he has saved in his pantry so his food doesn't go to waste. He can also search for recipes and filter out recipes that have foods he doesn’t want to eat yet. 
+Our app would not only help him find recipes for these ingredients he doesn't know what to do with but it can also help him find recipes that help push his taste pallet out. In the recipe tab he can do two different searches. Firstly he can search for recipes with ingredients that he has saved in his pantry so his food doesn't go to waste. He can also search for recipes and filter out recipes that have foods he doesn’t want to eat yet. 
 
 ## Supplementary Materials
 
