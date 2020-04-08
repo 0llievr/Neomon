@@ -70,7 +70,7 @@ Some of the participants don’t know about appropriate temperature of their ref
 
 ## Caveats
 
-Due to the COVID-19 outbreak, students were advised to stay indoors for the rest of the Spring 2020 semester. This also meant that human experiments are not allowed nor possible. As a result, we resorted to using mock data since it was the next best thing we had access to. 
+Due to the COVID-19 outbreak, students and the general public have been advised to stay indoors for the rest of the Spring 2020 semester. The implications of this were that human experiments were not allowed nor possible. As a result, we resorted to using mock data since it was the next best thing we had access to. 
 
 ## Personas
 
