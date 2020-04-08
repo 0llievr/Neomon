@@ -139,5 +139,4 @@ Eric is only adventurous for love, and because of it he always has ingredients h
 Our app would not only help him find recipes for these ingredients he doesn't know what to do with but it can also help him find recipes that help push his taste pallet out. In the recipe tab he can do two different searches. Firstly he can search for recipes with ingredients that he has saved in his pantry so his food doesn't go to waste. He can also search for recipes and filter out recipes that have foods he doesn’t want to eat yet. 
 
 ## Supplementary Materials
-
-Include link(s) or cop(ies) to your instrument(s) itself (questionnaire for a survey, protocol for an interview or contextual inquiry, etc)
+[Servey](https://docs.google.com/forms/d/1JOE3asn1t_n7VEct_ALclKt002vFCfFxL_kNWwMDGpA/edit)
