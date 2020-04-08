@@ -107,7 +107,7 @@ Bad habits:
 	Chuck often makes large amounts of food right before his produce goes bad so he ends up eating the same meal for days on end so he doesn't have to go to a big box super market. 
 
 
-###Danny 
+### Danny 
 	Danny is a 41 year young mother of 3. She likes to eat healthy and go to hike but often gives into what her kids want to do and eat. She lives with her husband and 3 children in a suburban courtyard outside of the big city. Her and her family rarely eat out due to how expensive it would be. 
 
 Habits:
