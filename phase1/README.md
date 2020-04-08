@@ -75,56 +75,59 @@ Due to the COVID-19 outbreak, students and the general public have been advised 
 ## Personas
 
 ### Chad Frattington
-Background:
-	Chad is a 21 year old frat star who believes his body is his temple but doesn't always treat it that way. He regularly drinks with the boys and goes to the gym daily to balance things out. At the end of the day he is all about those gains
+#### Background:
+Chad is a 21 year old frat star who believes his body is his temple but doesn't always treat it that way. He regularly drinks with the boys and goes to the gym daily to balance things out. At the end of the day he is all about those gains
 
-Habits:
-	Chad usually shops in bulk in order to feed himself and fraternity brothers. Items include: bulk chicken, protein powder, beef, eggs, a variety of oven/microwave ready meals, and small amounts of fruits. 
+#### Habits:
+Chad usually shops in bulk in order to feed himself and fraternity brothers. Items include: bulk chicken, protein powder, beef, eggs, a variety of oven/microwave ready meals, and small amounts of fruits. 
 
-bad habits: 
-	Food storage is not one of chads strengths. He often will leave meat in the fridge for weeks, store opened condiments in cabinets
+#### bad habits: 
+Food storage is not one of chads strengths. He often will leave meat in the fridge for weeks, store opened condiments in cabinets
 
 
 ### Vera mccarthy
-Background: 
-	Vera is a 19 year old nursing student living on her own for the first time. She just moved into a house with her 3 best friends and started an interest in cooking. She tries to keep a vegetarian diet but occasionally will sneak in a chicken nugget or two. 
+#### Background: 
+Vera is a 19 year old nursing student living on her own for the first time. She just moved into a house with her 3 best friends and started an interest in cooking. She tries to keep a vegetarian diet but occasionally will sneak in a chicken nugget or two. 
 
-Habits: 
-	Pintrist is Vera’s masters chef and she wants to make every recipe that hits the trending page. She exclusively shops at trader joes if she’s not at the farmers market and tries to buy as much organic produce as possible. 
+#### Habits: 
+Pintrist is Vera’s masters chef and she wants to make every recipe that hits the trending page. She exclusively shops at trader joes if she’s not at the farmers market and tries to buy as much organic produce as possible. 
 
-Bad habits:
-	Vera is not very good at remembering what exactly was in the recipes she fell in live with the night before and often buys the wrong ingredients. This causes her to have an excess of food she doesn't know what to do with.
+#### Bad habits:
+Vera is not very good at remembering what exactly was in the recipes she fell in live with the night before and often buys the wrong ingredients. This causes her to have an excess of food she doesn't know what to do with.
 
 
 ### Chuck Tratotrin
-Background:
-	Chuck is a 35 year old small farm owner. He grows a variety of crops on his land and sells a lot of them at the local farmers market. He lives with his new wife who lets him do all the cooking. 
+#### Background:
+Chuck is a 35 year old small farm owner. He grows a variety of crops on his land and sells a lot of them at the local farmers market. He lives with his new wife who lets him do all the cooking. 
 
-Habits:
-	Chuck mostly eats the food that he grows and will occasionally swap crops at the farmers market to get a larger variety of produce. He also only buys meat at the local butcher shop
+#### Habits:
+Chuck mostly eats the food that he grows and will occasionally swap crops at the farmers market to get a larger variety of produce. He also only buys meat at the local butcher shop
 
-Bad habits: 
-	Chuck often makes large amounts of food right before his produce goes bad so he ends up eating the same meal for days on end so he doesn't have to go to a big box super market. 
+#### Bad habits: 
+Chuck often makes large amounts of food right before his produce goes bad so he ends up eating the same meal for days on end so he doesn't have to go to a big box super market. 
 
 
 ### Danny 
-	Danny is a 41 year young mother of 3. She likes to eat healthy and go to hike but often gives into what her kids want to do and eat. She lives with her husband and 3 children in a suburban courtyard outside of the big city. Her and her family rarely eat out due to how expensive it would be. 
+#### Background:
+Danny is a 41 year young mother of 3. She likes to eat healthy and go to hike but often gives into what her kids want to do and eat. She lives with her husband and 3 children in a suburban courtyard outside of the big city. Her and her family rarely eat out due to how expensive it would be. 
 
-Habits:
-	Due to the size of her family, Danny always shops at the discount food store. She brings paper recipes she ripped out of magazines and spends a minimum of an hour shopping. Danny’s shopping cart is always a mix of healthy ingredients and kid Kuisine.
+#### Habits:
+Due to the size of her family, Danny always shops at the discount food store. She brings paper recipes she ripped out of magazines and spends a minimum of an hour shopping. Danny’s shopping cart is always a mix of healthy ingredients and kid Kuisine.
 
-Bad Habits:
-	If there is a coupon out there Danny will use it, but because of that she is often buying food that is closed to expiration. She also buys trending food items she reads about on the opera magazine that she doesn't know what to do with. 
+#### Bad Habits:
+If there is a coupon out there Danny will use it, but because of that she is often buying food that is closed to expiration. She also buys trending food items she reads about on the opera magazine that she doesn't know what to do with. 
 
 
 ### Eric Christof
-	Eric is a 30 year old tech startup worker who doesn't really think about what he puts in his body. For most of his meals he eats out or just makes something simple at home. He lives in an apartment with 3 of his employees and spends most of his day at his desk working. He’s reentering the dating game after a tough breakup and is trying to learn how to cook to impress the ladies. 
+#### Background
 
-habits: 
-	When he actually goes grocery shopping he goes to whole foods and buys organic because that is what will impress his date the most. He also will pick up a verity of simple things he know how to cook just in case he dosnt want to leave the house.
+Eric is a 30 year old tech startup worker who doesn't really think about what he puts in his body. For most of his meals he eats out or just makes something simple at home. He lives in an apartment with 3 of his employees and spends most of his day at his desk working. He’s reentering the dating game after a tough breakup and is trying to learn how to cook to impress the ladies. 
 
-bad habits:
-	Often will just throw out the ingredients he bought because his date canceled on him. Never really tries anything other than the food that he knows from his childhood.
+#### habits: 
+When he actually goes grocery shopping he goes to whole foods and buys organic because that is what will impress his date the most. He also will pick up a verity of simple things he know how to cook just in case he dosnt want to leave the house.
+
+#### bad habits:
+Often will just throw out the ingredients he bought because his date canceled on him. Never really tries anything other than the food that he knows from his childhood.
 
 ## Scenarios
 
