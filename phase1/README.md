@@ -13,43 +13,44 @@ We collected mock data and reproduced some graphs using the mock data.
 The followings are what we found:
 
 ![alt text](../assets/q1.png "Question1 img")
-*Over half of the participants tend to prepare when they go grocery shopping.
+* Over half of the participants tend to prepare when they go grocery shopping.
 
 
 ![alt text](../assets/q2.png "Question2 img")
-*66% of participants responded that 11% to 20% of the food goes bad. Almost all participants tend to leave their food until it goes bad.
+* 66% of participants responded that 11% to 20% of the food goes bad. 
+* Almost all participants tend to leave their food until it goes bad.
 
 
 ![alt text](../assets/q3.png "Question3 img")
-*Almost all participants don't care whether groceries are organic or not when buying them.
+* Almost all participants don't care whether groceries are organic or not when buying them.
 
 
 ![alt text](../assets/q4.png "Question4 img")
-*Almost all participants are willing to eat expired foods if they didn't go bad.
+* Almost all participants are willing to eat expired foods if they didn't go bad.
 
 
 ![alt text](../assets/q5.png "Question5 img")
-*Over half of the participants don't use a grocery list.
+* Over half of the participants don't use a grocery list.
 
 
 ![alt text](../assets/q6.png "Question6 img")
-*Almost all participants shop for a small group of families.
+* Almost all participants shop for a small group of families.
 
 
 ![alt text](../assets/q7.png "Question7 img")
-*66% of participants don't use any recipes when they are cooking.
+* 66% of participants don't use any recipes when they are cooking.
 
 
 ![alt text](../assets/q8.png "Question8 img")
-*Over half of the participants don't know if their refrigerators are set at appropriate temperatures.
+* Over half of the participants don't know if their refrigerators are set at appropriate temperatures.
 
 
 ![alt text](../assets/q9.png "Question9 img")
-*77% of participants expect their groceries to last for 5-7 days. 
+* 77% of participants expect their groceries to last for 5-7 days. 
 
 
 ![alt text](../assets/q10.png "Question10 img")
-*Almost all participants don't want to get a result of our study.
+* Almost all participants don't want to get a result of our study.
 
 
 In addition, we found some dairy products, fruits or groceries are often bought and expired. Almost all the responders store their foods in cabinets or fridges. One-third of the participants are following Carnivorous diets.
