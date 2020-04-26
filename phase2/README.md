@@ -5,5 +5,4 @@
 # Phase II: User-Centered Design
 
 ![fridge](../assets/phase2/fridge.png | width=200)
-![fridge](../assets/phase2/fridge.png)<!-- .element height="50%" width="50%" -->
-<img src="../assets/phase2/fridge.png" alt="fride" width="200" height="300">
+<img src="../assets/phase2/fridge.png" alt="fridge" width="250" height="542">
