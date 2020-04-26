@@ -8,14 +8,14 @@
 <p align="center">
   <img src="../assets/phase2/fridge.png" alt="fridge" width="250" height="545">
 </p>
-
-
+  
+  
 #### Freezer
 <p align="center">
 <img src="../assets/phase2/freezer.png" alt="freezer" width="250" height="545">
 </p>
-
-
+  
+  
 #### Pantry
 <p align="center">
 <img src="../assets/phase2/pantry.png" alt="pantry" width="250" height="545">
@@ -32,9 +32,10 @@
 <p align="center">
 <img src="../assets/phase2/removeItem.png" alt="removeItem" width="250" height="545">
 </p>
-
-
-
+  
+  
+  
+    
 ## Shopping List Section
 #### Shopping List
 * Shopping List  - 
