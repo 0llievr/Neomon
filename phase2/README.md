@@ -4,5 +4,8 @@
 
 # Phase II: User-Centered Design
 
-![fridge](../assets/phase2/fridge.png | width=200)
-<img src="../assets/phase2/fridge.png" alt="fridge" width="250" height="550">
+### Prototype: [Neomom](https://xd.adobe.com/view/2631902d-cac1-47dd-5be4-539bd7c1d9d2-5000/)
+
+
+#### Fridge
+<img src="../assets/phase2/fridge.png" alt="fridge" width="250" height="545">
