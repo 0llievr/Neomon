@@ -37,6 +37,9 @@
 
 ## Shopping List Section
 #### Shopping List
+* Shopping List  - 
+* Move Items into Refrigerator - 
+* Updated Shopping List - 
 <p align="center">
 <img src="../assets/phase2/shoppingList.png" alt="shoppingList" width="250" height="545"><img src="../assets/phase2/shoppingListMoveItems.png" alt="shoppingListMoveItems" width="250" height="545"><img src="../assets/phase2/shoppingListMoved.png" alt="shoppingListMoved" width="250" height="545">
 </p>
@@ -65,6 +68,9 @@
 
 ## Inbox Section
 #### Inbox with Sesarch Bar
+* Inbox - 
+* Search Bar - 
+* Hide Notification - 
 <p align="center">
 <img src="../assets/phase2/Inbox.png" alt="inbox" width="250" height="545"><img src="../assets/phase2/inboxSearchItems.png" alt="inboxSearchItems" width="250" height="545"><img src="../assets/phase2/inboxHideNotification.png" alt="inboxHideNotification" width="250" height="545">
 </p>
