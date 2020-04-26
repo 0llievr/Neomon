@@ -8,7 +8,9 @@
 
 ## Refrigerator Section
 #### Fridge
-<img src="../assets/phase2/fridge.png" alt="fridge" width="250" height="545">
+<p align="center">
+  <img src="../assets/phase2/fridge.png" alt="fridge" width="250" height="545">
+</p>
 
 
 
