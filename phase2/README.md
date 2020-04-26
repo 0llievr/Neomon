@@ -32,10 +32,9 @@
 <p align="center">
 <img src="../assets/phase2/removeItem.png" alt="removeItem" width="250" height="545">
 </p>
-  
-  
-  
-    
+
+
+
 ## Shopping List Section
 #### Shopping List
 * Shopping List  - 
