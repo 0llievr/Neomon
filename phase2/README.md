@@ -1,27 +1,27 @@
 # Phase II: User-Centered Design
-
+<br />
 ### Prototype: [Neomom](https://xd.adobe.com/view/2631902d-cac1-47dd-5be4-539bd7c1d9d2-5000/)
-
-
+<br />
+<br />
 ## Refrigerator Section
 #### Fridge
 <p align="center">
   <img src="../assets/phase2/fridge.png" alt="fridge" width="250" height="545">
 </p>
-
-
+<br />
+<br />
 #### Freezer
 <p align="center">
 <img src="../assets/phase2/freezer.png" alt="freezer" width="250" height="545">
 </p>
-
-
+<br />
+<br />
 #### Pantry
 <p align="center">
 <img src="../assets/phase2/pantry.png" alt="pantry" width="250" height="545">
 </p>
-
-
+<br />
+<br />
 #### Add Items
 <p align="center">
 <img src="../assets/phase2/addItemCounts.png" alt="addItemCounts" width="250" height="545"><img src="../assets/phase2/addItemPounds.png" alt="addItemPounds" width="250" height="545">
