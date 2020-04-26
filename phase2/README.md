@@ -19,4 +19,4 @@
 <img src="../assets/phase2/pantry.png" alt="pantry" width="250" height="545">
 
 #### Add Items
-<img src="../assets/phase2/addItemCounts.png" alt="addItemCounts" width="250" height="545"><img src="../assets/phase2/addItemPounds.png" alt="addItemPounds" width="250" height="545">
+<img src="../assets/phase2/addItemCounts.png" alt="addItemCounts" width="250" height="545" style="margin-right=20px"><img src="../assets/phase2/addItemPounds.png" alt="addItemPounds" width="250" height="545">
