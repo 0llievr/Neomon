@@ -19,7 +19,7 @@ Grocery list app that will add purchased items into a pantry section with a coun
 
 ## Phase 2: Interaction Design
 
-*Coming soon*
+[Full phase 2 report](phase2/)
 
 ## Phase 3: Usability Evaluation
 
