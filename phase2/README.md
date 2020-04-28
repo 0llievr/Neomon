@@ -68,7 +68,7 @@ When looking at a recipe, users can see all ingredients they have as well as the
 
 
 #### Recipe's Directions
-Recipe directions are formatted in a step by step way to ease users though the cooking process.
+Recipe directions are formatted in a step by step way to ease users though the cooking process. Recipes also include adjustments for how many people the user is cooking. 
 <p align="center">
 <img src="../assets/phase2/recipesDirections.png" alt="recipesDirections" width="250" height="545">
 </p>
@@ -86,6 +86,7 @@ Recipe directions are formatted in a step by step way to ease users though the c
 
 
 #### Food Warning Notification of Inbox
+The food warning notification will let users know when food items are expiring. It will also recommend recipes that contain the item.
 <p align="center">
 <img src="../assets/phase2/inboxAlarm.png" alt="inboxAlarm" width="250" height="545">
 </p>
@@ -99,6 +100,7 @@ Recipe directions are formatted in a step by step way to ease users though the c
 
 
 ## Profile Section
+The profile section offers analytical data on the food users purchase consume and waste. It brakes this information down into a pie graph for the current month and a total waste line graph at the bottom. The pie graph is split into food categories to offer users insight on what food items they let go bad the most often. The line graph helps users visualize how wasteful they have been to better adjust their shopping in the future.
 #### Profile with Food Wasting Analysis
 <p align="center">
 <img src="../assets/phase2/profile.png" alt="profile" width="250" height="545"><img src="../assets/phase2/profileFamilyMembers.png" alt="profileFamilyMembers" width="250" height="545">
