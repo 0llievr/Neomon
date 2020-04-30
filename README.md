@@ -18,8 +18,10 @@ Grocery list app that will add purchased items into a pantry section with a coun
 [Full phase 1 report](phase1/)
 
 ## Phase 2: Interaction Design
-* What we noticed from Eric is that he doesn’t necessarily know the best way to find recipes. An idea we had is to include a red exclamation mark icon next to recipes that call for food items in our persona’s kitchen that will pass their best by or expiration date
-* Our persona went grocery shopping and followed their list but also saw items that they wanted that weren’t on the list. These impromptu buys did not make it into their virtual pantry, fridge, or freezer so we came up with a solution. The app can have a feature where the user scans their receipt after check-out. Any items that match the original list are disregarded so that everything else can be added to the virtual pantry, fridge, or freezer. 
+
+* While our data showed that users’ food doesn’t tend to go bad and that being unprepared was an issue our classmates faced when going grocery shopping, it’s important to keep in mind that our sample size was incredibly small. However, there were still individuals in our survey that dealt with food waste and weren’t sure about how to keep groceries fresh. Our app aims to help users make the best out of their groceries by showing them what will soon go bad and how to cook or prepare those ingredients.
+
+* Our persona and scenario showed us that there can be situations in which being prepared doesn’t solve everything. There may be products not on your grocery list  that make it into your cart. We considered this a completely normal occurrence so we thought this could be solved by creating a feature where a user can scan their receipt with their phone’s camera. Anything not on their Shopping List would be added to their fridge/freezer/pantry.
 
 [Full phase 2 report](phase2/)
 
