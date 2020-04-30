@@ -5,7 +5,10 @@ Grocery list app that will add purchased items into a pantry section with a coun
 
 ## Team Members
 
-* **Changsoo Jung** - Analyzed mock data and wrote the Findings and Conclusions section.
+* **Changsoo Jung**
+  * phase1 - Analyzed mock data and wrote the Findings and Conclusions section.
+  * phase2 -
+  * phase3 - 
 * **Daniel Lopez** - Wrote the Caveats and Methods section.
 * **Oliver Lynch** - Personas and Scenarios
 
