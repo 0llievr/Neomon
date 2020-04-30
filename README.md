@@ -21,7 +21,7 @@ Grocery list app that will add purchased items into a pantry section with a coun
 
 * While our data showed that users’ food doesn’t tend to go bad and that being unprepared was an issue our classmates faced when going grocery shopping, it’s important to keep in mind that our sample size was incredibly small. However, there were still individuals in our survey that dealt with food waste and weren’t sure about how to keep groceries fresh. Our app aims to help users make the best out of their groceries by showing them what will soon go bad and how to cook or prepare those ingredients.
 
-* Our persona and scenario showed us that there can be situations in which being prepared doesn’t solve everything. There may be products not on your grocery list  that make it into your cart. We considered this a completely normal occurrence so we thought this could be solved by creating a feature where a user can scan their receipt with their phone’s camera. Anything not on their Shopping List would be added to their fridge/freezer/pantry.
+* Our persona and scenario showed us that there can be situations in which being prepared doesn’t solve everything. There may be products not on your grocery list  that make it into your cart. We considered this a completely normal occurrence so we thought this could be solved by creating a feature where a user can scan their receipt with their phone’s camera. Anything not on their **Shopping List** would be added to their **Fridge/Freezer/Pantry**.
 
 [Full phase 2 report](phase2/)
 
