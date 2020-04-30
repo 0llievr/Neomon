@@ -11,7 +11,7 @@ Grocery list app that will add purchased items into a pantry section with a coun
   * Phase3 - 
 * **Daniel Lopez**
   * Phase1 - Wrote the Caveats and Methods section.
-  * Phase2 - Wrote the whole wireframe's descriptions.
+  * Phase2 - Wrote the description of each wireframe.
   * Phase3 -
 * **Oliver Lynch**
   * Phase1 - Personas and Scenarios.
