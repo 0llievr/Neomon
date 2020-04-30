@@ -27,7 +27,7 @@ In the refrigerator section you can view the food items that you currently have.
 #### Add Items
 Users can manually add items to the “My Fridge” section as well. You will be able to easily look up the item and add the amount in either pounds or total packages. The item will then be automatically added to the the correct fridge categories. Also, it is able to add items at once through capturing a reciept which contains a grocery item list. After the reciept is captured, our application recognizes item's name and quantity and then add items into appropriate storages.
 <p align="center">
-<img src="../assets/phase2/UpdatedAddItems.png" alt="addItemCounts" width="250" height="545"><div style="padding: 30px;"></div><img src="../assets/phase2/UpdatedAddItemsPounds.png" alt="addItemPounds" width="250" height="545"><img src="../assets/phase2/CaptureReciept.png" alt="captureReciepty" width="250" height="545">
+<img src="../assets/phase2/UpdatedAddItems.png" alt="addItemCounts" width="250" height="545"><img src="../assets/phase2/UpdatedAddItemsPounds.png" alt="addItemPounds" width="250" height="545"><img src="../assets/phase2/CaptureReciept.png" alt="captureReciepty" width="250" height="545">
 </p>
 
 
