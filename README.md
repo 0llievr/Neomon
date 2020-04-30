@@ -32,7 +32,7 @@ Grocery list app that will add purchased items into a pantry section with a coun
 
 * Our persona and scenario showed us that there can be situations in which being prepared doesn’t solve everything. There may be products not on your **Shopping List** that make it into your cart. We considered this a completely normal occurrence so we thought this could be solved by creating a feature where a user can scan their receipt with their phone’s camera. Anything not on their **Shopping List** would be added to their **Fridge/Freezer/Pantry**.
 
-[Full phase 2 report](phase2/)
+[__Full phase 2 report__](phase2/)
 
 ## Phase 3: Usability Evaluation
 
