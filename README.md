@@ -24,7 +24,7 @@ Grocery list app that will add purchased items into a pantry section with a coun
 
 * According to the results of the survey, while participants don’t really have as big of an issue with food waste as we thought, we did find that lack of preparedness when grocery shopping is an issue our classmates face. 
 
-[Full phase 1 report](phase1/)
+[__Full phase 1 report__](phase1/)
 
 ## Phase 2: User-Centered Design
 
