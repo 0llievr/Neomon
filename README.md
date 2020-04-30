@@ -7,7 +7,7 @@ Grocery list app that will add purchased items into a pantry section with a coun
 
 * **Changsoo Jung**
   * phase1 - Analyzed mock data and wrote the Findings and Conclusions section.
-  * phase2 -
+  * phase2 - Built an wireframe and a prototype. Added images and titles on the phase2.
   * phase3 - 
 * **Daniel Lopez** - Wrote the Caveats and Methods section.
 * **Oliver Lynch** - Personas and Scenarios
