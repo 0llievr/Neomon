@@ -11,7 +11,7 @@ Grocery list app that will add purchased items into a pantry section with a coun
 
 ## Phase 1: User Inquiry and Inspection
 
-* **Research Method:** Research Method: Google Forms survey shared with the class via the CSCI 431 Slack. The participants were our classmates from the class. Once the data was gathered, Charles collected screenshots of the data in the form of pies and bars.
+* **Research Method:** Google Forms survey shared with the class via the CSCI 431 Slack. The participants were our classmates from the class. Once the data was gathered, Charles collected screenshots of the data in the form of pies and bars.
 
 * According to the results of the survey, while participants don’t really have as big of an issue with food waste as we thought, we did find that lack of preparedness when grocery shopping is an issue our classmates face. 
 
