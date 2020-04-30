@@ -25,9 +25,9 @@ In the refrigerator section you can view the food items that you currently have.
 
 
 #### Add Items
-Users can manually add items to the “My Fridge” section as well. You will be able to easily look up the item and add the amount in either pounds or total packages. The item will then be automatically added to the the correct fridge categories.
+Users can manually add items to the “My Fridge” section as well. You will be able to easily look up the item and add the amount in either pounds or total packages. The item will then be automatically added to the the correct fridge categories. Also, it is able to add items at once through capturing a reciept which contains a grocery item list. After the reciept is captured, our application recognizes item's name and quantity and then add items into appropriate storages.
 <p align="center">
-<img src="../assets/phase2/UpdatedAddItems.png" alt="addItemCounts" width="250" height="545"><img src="../assets/phase2/addItemPounds.png" alt="addItemPounds" width="250" height="545"><img src="../assets/phase2/CaptureReciepty.png" alt="captureReciepty" width="250" height="545">
+<img src="../assets/phase2/UpdatedAddItems.png" alt="addItemCounts" width="250" height="545"><img src="../assets/phase2/UpdatedAddItemsPounds.png" alt="addItemPounds" width="250" height="545"><img src="../assets/phase2/CaptureReciept.png" alt="captureReciepty" width="250" height="545">
 </p>
 
 
@@ -43,9 +43,8 @@ Users can easily remove items they used outside of a recipe by pressing and drag
 The Shopping List section of the app allows users to easily make grocery lists. Items can be automatically added to the shopping list from recipes or be manually added. Instead of just checking off the items users purchase, the app then adds them to the “My Fridge” section.
 
 #### Shopping List
-* Shopping List  - 
-* Move Items into Refrigerator - 
-* Updated Shopping List - 
+* Shopping List  - Through clicking a checkbox, users can recognize which items are left to buy in a grocery store.
+* Move Items into Refrigerator - After purchasing some items in the grocery store, users can move the items from the checkbox to my fridge section at once.
 <p align="center">
 <img src="../assets/phase2/shoppingList.png" alt="shoppingList" width="250" height="545"><img src="../assets/phase2/shoppingListMoveItems.png" alt="shoppingListMoveItems" width="250" height="545"><img src="../assets/phase2/shoppingListMoved.png" alt="shoppingListMoved" width="250" height="545">
 </p>
@@ -77,9 +76,9 @@ Recipe directions are formatted in a step by step way to ease users though the c
 
 ## Inbox Section
 #### Inbox with Sesarch Bar
-* Inbox - 
-* Search Bar - 
-* Hide Notification - 
+* Inbox - Inbox contains three types notifications; food warning notification, recipe recommand notification, and information notification.
+* Search Bar - Users can search notifications by foods, recipes or ingredients.
+* Hide Notification - Users can hide a notification by clicking a three-dot button.
 <p align="center">
 <img src="../assets/phase2/Inbox.png" alt="inbox" width="250" height="545"><img src="../assets/phase2/inboxSearchItems.png" alt="inboxSearchItems" width="250" height="545"><img src="../assets/phase2/inboxHideNotification.png" alt="inboxHideNotification" width="250" height="545">
 </p>
