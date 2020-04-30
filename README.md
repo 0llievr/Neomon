@@ -11,9 +11,7 @@ Grocery list app that will add purchased items into a pantry section with a coun
 
 ## Phase 1: User Inquiry and Inspection
 
-* Executive Summary of methods,
-* data gathered,
-* and most important outcomes
+* **Research Method:** Survey/Questionnaire shared with the class via the CSCI 431 Slack. Once the data was gathered, Charles collected screenshots of the data in the form of pies and bars.
 
 [Full phase 1 report](phase1/)
 
