@@ -26,7 +26,7 @@ Grocery list app that will add purchased items into a pantry section with a coun
 
 [Full phase 1 report](phase1/)
 
-## Phase 2: Interaction Design
+## Phase 2: User-Centered Design
 
 * While our data showed that users’ food doesn’t tend to go bad and that being unprepared was an issue our classmates faced when going grocery shopping, it’s important to keep in mind that our sample size was incredibly small. However, there were still individuals in our survey that dealt with food waste and weren’t sure about how to keep groceries fresh. Our app aims to help users make the best out of their groceries by showing them what will soon go bad and how to cook or prepare those ingredients.
 
