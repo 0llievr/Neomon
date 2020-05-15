@@ -38,4 +38,6 @@ Grocery list app that will add purchased items into a pantry section with a coun
 
 * Formative approach
 
+* Think aloud protocol
+
 [__Full phase 3 report__](phase3/)
