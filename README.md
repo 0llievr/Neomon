@@ -34,7 +34,7 @@ Grocery list app that will add purchased items into a pantry section with a coun
 
 [__Full phase 2 report__](phase2/)
 
-## Phase 3: Usability Evaluation
+## Phase III: Usability Evaluation
 
 * Formative approach
 
