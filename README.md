@@ -12,7 +12,7 @@ Grocery list app that will add purchased items into a pantry section with a coun
 * **[__Daniel Lopez__](https://usabilityengineering.github.io/uxportfolio-dlopez77-csuchico/)**
   * Phase1 - Wrote the Caveats and Methods section.
   * Phase2 - Wrote the description how our wireframe motivated by the user research data, personas, and scenarios.
-  * Phase3 - Wrote the protocol
+  * Phase3 - Moderated the pilot test
 * **[__Oliver Lynch__](https://usabilityengineering.github.io/uxportfolio-0llievr/)**
   * Phase1 - Personas and Scenarios.
   * Phase2 - Wrote the description of each wireframe.
