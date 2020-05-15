@@ -37,11 +37,14 @@ Grocery list app that will add purchased items into a pantry section with a coun
 ## Phase III: Usability Evaluation
 Usability evaluation has proceeded for 40 minutes and our prototype is provided to a tester. We asked several questions before we started the test. Then, we gave four tasks to analyze the usability of our prototype. Each task contained a different mission, which required to use a new part of the prototype. While the evaluation proceeded, one moderator asked questions and two note-takers wrote down how the test reacted.
 
-* Summary of the evaluation
-  * Task 1 - The tester liked the categorized storage and photos matched with food items. However, the tester felt inconvenience since our shopping list didn’t indicate the amount when the tester added an item. 
-  * Task 2 - The tester was confused about adding food item restrictions and lost the way to proceed the task.
-  * Task 3 - The tester knew that a red balloon on the top right of the food image was a warning sign, but didn’t know the exact meaning of the abbreviation.
-  * Task 4 - Instead of the word ‘inbox’, a new word ‘notification’ seemed to be more suitable for the tester.
+__Summary of the evaluation__
+ * Task 1 - The tester liked the categorized storage and photos matched with food items. However, the tester felt inconvenience since our shopping list didn’t indicate the amount when the tester added an item. 
+ 
+ * Task 2 - The tester was confused about adding food item restrictions and lost the way to proceed the task.
+ 
+ * Task 3 - The tester knew that a red balloon on the top right of the food image was a warning sign, but didn’t know the exact meaning of the abbreviation.
+ 
+ * Task 4 - Instead of the word ‘inbox’, a new word ‘notification’ seemed to be more suitable for the tester.
 
 
 [__Full phase 3 report__](phase3/)
