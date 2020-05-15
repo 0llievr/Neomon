@@ -35,9 +35,16 @@ Grocery list app that will add purchased items into a pantry section with a coun
 [__Full phase 2 report__](phase2/)
 
 ## Phase III: Usability Evaluation
+Usability evaluation has proceeded for 40 minutes and our prototype is provided to a tester. We asked several questions before we started the test. Then, we gave four tasks to analyze the usability of our prototype. Each task contained a different mission, which required to use a new part of the prototype. While the evaluation proceeded, one moderator asked questions and two note-takers wrote down how the test reacted.
 
 * Formative approach - We used this approach because it best suited our circumstances. This approach and particular situation would mean getting our participant and professor to use our app and point out any major flaws. The goal is to find some of the more prominent usability issues with out app so that we can fix them.
 
 * Think aloud protocol - Our protocol required our participant to describe what they were looking at, what they liked and didn't like about the app, and what surprised them or confused them. This would give us a clearer view into one of our users' perspectives.
+* Summary of the evaluation
+ * Task 1 - The tester liked the categorized storage and photos matched with food items. However, the tester felt inconvenience since our shopping list didn’t indicate the amount when the tester added an item. 
+ * Task 2 - The tester was confused about adding food item restrictions and lost the way to proceed the task.
+ * Task 3 - The tester knew that a red balloon on the top right of the food image was a warning sign, but didn’t know the exact meaning of the abbreviation.
+ * Task 4 - Instead of the word ‘inbox’, a new word ‘notification’ seemed to be more suitable for the tester.
+
 
 [__Full phase 3 report__](phase3/)
