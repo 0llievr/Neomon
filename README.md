@@ -36,8 +36,8 @@ Grocery list app that will add purchased items into a pantry section with a coun
 
 ## Phase III: Usability Evaluation
 
-* Formative approach
+* Formative approach - We used this approach because it best suited our circumstances. This approach and particular situation would mean getting our participant and professor to use our app and point out any major flaws. The goal is to find some of the more prominent usability issues with out app so that we can fix them.
 
-* Think aloud protocol
+* Think aloud protocol - Our protocol required our participant to describe 
 
 [__Full phase 3 report__](phase3/)
