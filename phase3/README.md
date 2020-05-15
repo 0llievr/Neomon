@@ -9,3 +9,7 @@
 ##### Task two
 ##### Task three
 ##### Task four
+
+__Formative approach__ - We used this approach because it best suited our circumstances. This approach and particular situation would mean getting our participant and professor to use our app and point out any major flaws. The goal is to find some of the more prominent usability issues with out app so that we can fix them.
+
+__Think aloud protocol__ - Our protocol required our participant to describe what they were looking at, what they liked and didn't like about the app, and what surprised them or confused them. This would give us a clearer view into one of our users' perspectives.
