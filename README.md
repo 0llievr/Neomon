@@ -41,10 +41,10 @@ Usability evaluation has proceeded for 40 minutes and our prototype is provided 
 
 * Think aloud protocol - Our protocol required our participant to describe what they were looking at, what they liked and didn't like about the app, and what surprised them or confused them. This would give us a clearer view into one of our users' perspectives.
 * Summary of the evaluation
- * Task 1 - The tester liked the categorized storage and photos matched with food items. However, the tester felt inconvenience since our shopping list didn’t indicate the amount when the tester added an item. 
- * Task 2 - The tester was confused about adding food item restrictions and lost the way to proceed the task.
- * Task 3 - The tester knew that a red balloon on the top right of the food image was a warning sign, but didn’t know the exact meaning of the abbreviation.
- * Task 4 - Instead of the word ‘inbox’, a new word ‘notification’ seemed to be more suitable for the tester.
+  * Task 1 - The tester liked the categorized storage and photos matched with food items. However, the tester felt inconvenience since our shopping list didn’t indicate the amount when the tester added an item. 
+  * Task 2 - The tester was confused about adding food item restrictions and lost the way to proceed the task.
+  * Task 3 - The tester knew that a red balloon on the top right of the food image was a warning sign, but didn’t know the exact meaning of the abbreviation.
+  * Task 4 - Instead of the word ‘inbox’, a new word ‘notification’ seemed to be more suitable for the tester.
 
 
 [__Full phase 3 report__](phase3/)
