@@ -5,18 +5,18 @@ Grocery list app that will add purchased items into a pantry section with a coun
 
 ## Team Members
 
-* **Changsoo Jung**
+* **[__Changsoo Jung__](https://usabilityengineering.github.io/uxportfolio-cjung5/)**
   * Phase1 - Analyzed mock data and wrote the Findings and Conclusions section.
-  * Phase2 - Built an wireframe and a prototype. Added images and titles on the phase2.
-  * Phase3 - 
+  * Phase2 - Built the wireframe and a prototype. Added images and titles on the phase2.
+  * Phase3 - Built the prototype.
 * **Daniel Lopez**
   * Phase1 - Wrote the Caveats and Methods section.
   * Phase2 - Wrote the description how our wireframe motivated by the user research data, personas, and scenarios.
-  * Phase3 -
+  * Phase3 - Wrote the protocol
 * **Oliver Lynch**
   * Phase1 - Personas and Scenarios.
   * Phase2 - Wrote the description of each wireframe.
-  * Phase3 -
+  * Phase3 - Wrote the protocol
 
 ## Phase 1: User Inquiry and Inspection
 
